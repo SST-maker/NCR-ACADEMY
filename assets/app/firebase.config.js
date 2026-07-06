@@ -8,7 +8,7 @@ export const firebaseConfig = {
 };
 
 export const firebaseRuntime = {
-  enabled:true,
+  enabled:false,
   allowDemoFallback: true,
   sdkVersion: '10.12.5',
   defaultCourses: [
