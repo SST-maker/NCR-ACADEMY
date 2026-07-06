@@ -1,6 +1,6 @@
 export const supabaseConfig = {
-  url: 'https://gepylkbfarwafqhkjxdz.supabase.co',
-  anonKey: 'sb_publishable_82fMQ6tVOllAq4KaRSApoA_9Ap-r16u'
+  SUPABASE_URL: "https://gepylkbfarwafqhkjxdz.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_82fMQ6tVOllAq4KaRSApoA_9Ap-r16u"
 };
 
 export const supabaseRuntime = {
