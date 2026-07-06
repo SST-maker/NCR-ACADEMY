@@ -1,0 +1,19 @@
+{
+  "name": "ncr-academy-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "description": "PWA LMS N.C.R Academy pour centre de formation, compatible GitHub Pages.",
+  "keywords": [
+    "pwa",
+    "lms",
+    "formation",
+    "qualiopi",
+    "ncr-solutions"
+  ],
+  "license": "UNLICENSED"
+}
