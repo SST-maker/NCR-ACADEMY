@@ -6,7 +6,7 @@ export const supabaseConfig = {
 };
 
 export const supabaseRuntime = {
-  enabled: false,
+  enabled: true,
   allowDemoFallback: true,
   defaultCourses: [
     'communication-digitale',
