@@ -1,12 +1,12 @@
 export const supabaseConfig = {
-  url: '',
-  anonKey: '',
-  publishableKey: '',
-  apiKey: ''
+  url: 'https://snatoenrtiybjmmitfvn.supabase.co',
+  anonKey: 'sb_publishable_di4i2kdEP9Lnuf-vlQU01g_NFGAPsvG',
+  publishableKey: 'sb_publishable_di4i2kdEP9Lnuf-vlQU01g_NFGAPsvG',
+  apiKey: 'sb_publishable_di4i2kdEP9Lnuf-vlQU01g_NFGAPsvG'
 };
 
 export const supabaseRuntime = {
-  enabled: false,
+  enabled: true,
   allowDemoFallback: true,
   defaultCourses: [
     'communication-digitale',
