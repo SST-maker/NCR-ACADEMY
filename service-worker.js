@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ncr-academy-v5-3-supabase-key-fix';
+const CACHE_NAME = 'ncr-academy-v5-3-1-sessions-tab';
 const APP_SHELL = [
   './',
   './index.html',
