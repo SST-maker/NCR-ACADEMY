@@ -1,8 +1,8 @@
 export const supabaseConfig = {
-  url: '',
-  anonKey: '',
-  publishableKey: '',
-  apiKey: ''
+  url: 'https://hoxrjuyhrnyrkmanlyoc.supabase.co',
+  anonKey: 'sb_publishable_C9GsXGK0sHCVsD2BCbFI8Q_u9Ky9pHK',
+  publishableKey: 'sb_publishable_C9GsXGK0sHCVsD2BCbFI8Q_u9Ky9pHK',
+  apiKey: 'sb_publishable_C9GsXGK0sHCVsD2BCbFI8Q_u9Ky9pHK'
 };
 
 export const supabaseRuntime = {
