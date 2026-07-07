@@ -1,6 +1,6 @@
 export const supabaseConfig = {
   url: 'https://hoxrjuyhrnyrkmanlyoc.supabase.co',
-  anonKey: 'ssb_publishable_C9GsXGK0sHCVsD2BCbFI8Q_u9Ky9pHK'
+  anonKey: 'sb_publishable_C9GsXGK0sHCVsD2BCbFI8Q_u9Ky9pHK'
 };
 
 export const supabaseRuntime = {
