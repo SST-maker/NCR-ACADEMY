@@ -1,8 +1,8 @@
 export const supabaseConfig = {
-  url: 'https://hoxrjuyhrnyrkmanlyoc.supabase.co',
-  anonKey: 'sb_publishable_C9GsXGK0sHCVsD2BCbFI8Q_u9Ky9pHK',
-  publishableKey: 'sb_publishable_C9GsXGK0sHCVsD2BCbFI8Q_u9Ky9pHK',
-  apiKey: 'sb_publishable_C9GsXGK0sHCVsD2BCbFI8Q_u9Ky9pHK'
+  url: 'https://snatoenrtiybjmmitfvn.supabase.co',
+  anonKey: 'sb_publishable_di4i2kdEP9Lnuf-vlQU01g_NFGAPsvG',
+  publishableKey: 'sb_publishable_di4i2kdEP9Lnuf-vlQU01g_NFGAPsvG',
+  apiKey: 'sb_publishable_di4i2kdEP9Lnuf-vlQU01g_NFGAPsvG'
 };
 
 export const supabaseRuntime = {
